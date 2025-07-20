@@ -19,9 +19,9 @@ X ~ Binomial(n=10, p)
 \]
 
 Donde:
-- \( p \): probabilidad de recordar una palabra.
-- Hipótesis nula: \( H_0: f = 0 \).
-- Hipótesis alternativa: \( H_1: f > 0 \), donde \( f \) es la mejora en la probabilidad gracias a la app.
+- \( p_0 \): probabilidad de recordar una palabra.
+- Hipótesis nula: \( H_0: p = p_0 \).
+- Hipótesis alternativa: \( H_1: p = p_0 + f \), donde \( f > 0\) es la mejora en la probabilidad gracias a la app.
 
 ---
 
