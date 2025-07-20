@@ -16,7 +16,7 @@ Cada estudiante realizó:
 
 Se modela cada prueba como:
 \[
-X \sim Binomial(n=10, p)
+X ~ Binomial(n=10, p)
 \]
 
 Donde:
