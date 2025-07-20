@@ -1,7 +1,6 @@
 # MEFE
 
-Este repositorio contiene un notebook de análisis estadístico para evaluar la **efectividad de una aplicación móvil de aprendizaje de idiomas**.  
-El caso surge de un ejercicio de métodos estadísticos y funciones de estimación (MEFE).
+Este repositorio contiene un notebook de análisis estadístico para evaluar la **efectividad de una aplicación móvil de aprendizaje de idiomas**. El caso surge de un ejercicio de métodos estadísticos y funciones de estimación (MEFE).
 
 ## Contexto
 
